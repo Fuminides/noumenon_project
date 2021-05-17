@@ -28,6 +28,13 @@ Four different .py files are included.
 
 In a separated folder I have added the results for the semantic value for all actors, and different semantic similarities. The files that contain "ss" contain semantic similarities. The "all" files contain the frequency of each word. Those who contain nothing are the semantic values.
 
+## Dependencies
+
+1. Numpy
+2. Pandas
+3. Scipy
+4. Networkx
+
 ## Reference
 
 We hope to publish at least the preprint soon.
