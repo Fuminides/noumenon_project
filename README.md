@@ -30,4 +30,4 @@ In a separated folder I have added the results for the semantic value for all ac
 
 ## Reference
 
-We hope tu publish, at least the preprint, soon.
+We hope to publish at least the preprint soon.
