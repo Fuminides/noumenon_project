@@ -2,19 +2,6 @@
 
 This repo contains the necessary code to work with the idea of Noumenon applied to Social Network Analysis: the Semantic value. We have included both the code necessary to replicate our results and precomputed some of them in csv format. Those csv contains additional results not reported in the paper. (Mostly semantic values and similarities of actors not analyzed in the paper)
 
-We hope to publish it sometime this year, and while a preprint is coming soon, you can check this work meanwhile:
-@article{fumanal2020community,
-  title={Community detection and social network analysis based on the Italian wars of the 15th century},
-  author={Fumanal-Idocin, Javier and Alonso-Betanzos, A and Cord{\'o}n, O and Bustince, H and Min{\'a}rov{\'a}, M},
-  journal={Future Generation Computer Systems},
-  volume={113},
-  pages={25--40},
-  year={2020},
-  publisher={North-Holland}
-}
-
-We will update accordingly when something else is released.
-
 ## Code
 
 Four different .py files are included.
@@ -37,4 +24,16 @@ In a separated folder I have added the results for the semantic value for all ac
 
 ## Reference
 
-We hope to publish at least the preprint soon.
+Cite the preprint as:
+
+
+@article{Fumanal-Idocin2021Sep,
+	author = {Fumanal-Idocin, Javier and Cordón, Oscar and Dimuro, Graçaliz and Minárová, María and Bustince, Humberto},
+	title = {{The Concept of Semantic Value in Social Network Analysis: an Application to Comparative Mythology}},
+	journal = {arXiv},
+	year = {2021},
+	month = {Sep},
+	eprint = {2109.08023},
+	url = {https://arxiv.org/abs/2109.08023v1}
+}
+
